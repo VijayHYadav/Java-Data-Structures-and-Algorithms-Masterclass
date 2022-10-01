@@ -15,3 +15,6 @@
 ![](Images/2022-10-02-00-11-06.png)
 ![](Images/2022-10-02-00-11-39.png)
 ![](Images/2022-10-02-00-13-00.png)
+
+# 005 Types of Data Structures
+![](Images/2022-10-02-00-22-04.png)

@@ -29,3 +29,8 @@
 
 # 006 When to Use_Avoid Recursion_
 ![](Images/2022-10-02-01-15-27.png)
+
+# 007 How to Write Recursion in 3 Steps_
+![](Images/2022-10-02-01-18-06.png)
+![](Images/2022-10-02-01-18-33.png)
+![](Images/2022-10-02-01-32-02.png)

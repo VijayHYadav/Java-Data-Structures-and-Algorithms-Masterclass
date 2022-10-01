@@ -26,3 +26,6 @@
 # 005 Recursive vs Iterative Solution
 ![](Images/2022-10-02-01-01-34.png)
 ![](Images/2022-10-02-01-04-41.png)
+
+# 006 When to Use_Avoid Recursion_
+![](Images/2022-10-02-01-15-27.png)

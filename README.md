@@ -32,5 +32,6 @@
 
 # 007 How to Write Recursion in 3 Steps_
 ![](Images/2022-10-02-01-18-06.png)
+![](Images/2022-10-02-01-33-34.png)
 ![](Images/2022-10-02-01-18-33.png)
 ![](Images/2022-10-02-01-32-02.png)

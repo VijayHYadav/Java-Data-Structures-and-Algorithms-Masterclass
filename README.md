@@ -10,6 +10,8 @@
 ![](Images/2022-10-02-00-45-58.png)
 
 # 004 The Logic Behind Recursion
+![](programms\LogicBehindRecursion.java)
+![](Images/2022-10-02-08-54-28.png)
 ![](Images/2022-10-02-00-48-20.png)
 ![](Images/2022-10-02-00-48-43.png)
 ![](Images/2022-10-02-00-51-30.png)
@@ -31,7 +33,13 @@
 ![](Images/2022-10-02-01-15-27.png)
 
 # 007 How to Write Recursion in 3 Steps_
+![](programms\FactorialRecursion.java)
+![](Images/2022-10-02-10-46-16.png)
 ![](Images/2022-10-02-01-18-06.png)
 ![](Images/2022-10-02-01-33-34.png)
 ![](Images/2022-10-02-01-18-33.png)
 ![](Images/2022-10-02-01-32-02.png)
+
+# 008 Fibonacci Series using Recursion
+![](programms\FibonacciRecursion.java)
+![](Images/2022-10-02-11-36-22.png)

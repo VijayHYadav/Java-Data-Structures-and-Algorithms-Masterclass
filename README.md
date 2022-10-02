@@ -7,3 +7,9 @@ Step 1 : Recursive case - the flow
 
 # 003 Question 3 - GCD
 ![](Images/2022-10-02-16-22-28.png)
+
+# 004 Question 4 - Decimal to Binary
+![](Images/2022-10-02-16-30-49.png)
+![](Images/2022-10-02-16-31-35.png)
+![](Images/2022-10-02-16-33-04.png)
+![](Images/2022-10-02-16-33-43.png) 

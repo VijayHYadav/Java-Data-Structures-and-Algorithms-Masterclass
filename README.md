@@ -24,3 +24,6 @@
 
 # 008 Question 8 - Time Complexity of Factorial
 ![](Images/2022-10-08-22-56-46.png)
+
+# 009 Question 9 - Time Complexity of Fibonacci
+![](Images/2022-10-08-23-42-37.png)

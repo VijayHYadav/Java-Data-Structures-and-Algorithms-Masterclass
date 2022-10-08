@@ -27,3 +27,8 @@
 The recursive call is directly realted to number of input.
 #
 ![](Images/2022-10-08-10-19-43.png)
+
+# 004 Space Complexity
+![](Images/2022-10-08-10-30-03.png)
+![](Images/2022-10-08-10-38-30.png)
+![](Images/2022-10-08-10-39-06.png)

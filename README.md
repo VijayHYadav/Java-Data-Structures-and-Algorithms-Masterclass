@@ -18,3 +18,6 @@
 
 # 006 Question 6 - Time Complexity of Reverse Array Function
 ![](Images/2022-10-08-22-11-46.png)
+
+# 007 Question 7 - Equivalent to O(N)
+![](Images/2022-10-08-22-44-40.png)

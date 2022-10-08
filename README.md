@@ -21,3 +21,6 @@
 
 # 007 Question 7 - Equivalent to O(N)
 ![](Images/2022-10-08-22-44-40.png)
+
+# 008 Question 8 - Time Complexity of Factorial
+![](Images/2022-10-08-22-56-46.png)

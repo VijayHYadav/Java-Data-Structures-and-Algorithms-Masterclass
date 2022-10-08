@@ -9,3 +9,6 @@
 # 003 Question 3 - Time Complexity of Print Unordered Pairs Method
 ![](Images/2022-10-08-15-07-43.png)
 ![](Images/2022-10-08-15-16-02.png)
+
+# 004 Question 4 - Find Time Complexity for Given Method
+![](Images/2022-10-08-22-06-29.png)

@@ -35,3 +35,6 @@ The recursive call is directly realted to number of input.
 
 # 005 Drop Constants and Non Dominant Terms
 ![](Images/2022-10-08-10-42-53.png)
+
+# 006 Addition vs Multiplication
+![](Images/2022-10-08-11-54-55.png)

@@ -12,3 +12,6 @@
 
 # 004 Question 4 - Find Time Complexity for Given Method
 ![](Images/2022-10-08-22-06-29.png)
+
+# 005 Question 5 - Find Time Complexity for Given Method
+![](2022-10-08-22-09-59.png)

@@ -27,3 +27,6 @@
 
 # 009 Question 9 - Time Complexity of Fibonacci
 ![](Images/2022-10-08-23-42-37.png)
+
+# 010 Question 10 - Time Complexity Powers Of 2
+![](Images/2022-10-08-23-49-12.png)

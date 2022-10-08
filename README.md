@@ -32,3 +32,6 @@ The recursive call is directly realted to number of input.
 ![](Images/2022-10-08-10-30-03.png)
 ![](Images/2022-10-08-10-38-30.png)
 ![](Images/2022-10-08-10-39-06.png)
+
+# 005 Drop Constants and Non Dominant Terms
+![](Images/2022-10-08-10-42-53.png)

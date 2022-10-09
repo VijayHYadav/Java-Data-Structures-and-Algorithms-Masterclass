@@ -36,3 +36,6 @@
 # 009 Delete Array Element
 ![](Images/2022-10-09-15-59-01.png)
 ![](Images/2022-10-09-15-59-38.png)
+
+# 010 Time and Space Complexity of 1D Arrays
+![](Images/2022-10-09-16-27-24.png)

@@ -24,14 +24,14 @@ public class InsertionArray {
         }
     }
 
-    public static void main(String[] args) {
-        InsertionArray foo = new InsertionArray(2);
-        System.out.println(Arrays.toString(foo.arr));
-        foo.insert(0, 0);
-        System.out.println(Arrays.toString(foo.arr));
-        foo.insert(1, 1);
-        System.out.println(Arrays.toString(foo.arr));
-        foo.insert(2, 2);
-        System.out.println(Arrays.toString(foo.arr));
-    }
+    // public static void main(String[] args) {
+    //     InsertionArray foo = new InsertionArray(2);
+    //     System.out.println(Arrays.toString(foo.arr));
+    //     foo.insert(0, 0);
+    //     System.out.println(Arrays.toString(foo.arr));
+    //     foo.insert(1, 1);
+    //     System.out.println(Arrays.toString(foo.arr));
+    //     foo.insert(2, 2);
+    //     System.out.println(Arrays.toString(foo.arr));
+    // }
 }

@@ -32,3 +32,7 @@
 
 # 008 Search for Array Element
 ![](Images/2022-10-09-15-48-50.png)
+
+# 009 Delete Array Element
+![](Images/2022-10-09-15-59-01.png)
+![](Images/2022-10-09-15-59-38.png)

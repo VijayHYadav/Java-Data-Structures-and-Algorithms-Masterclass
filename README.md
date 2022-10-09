@@ -26,3 +26,6 @@
 # 006 Accessing Elements in Array
 ![](Images/2022-10-09-10-36-47.png)
 ![](Images/2022-10-09-15-10-53.png)
+
+# 007 Array Traversal
+![](Images/2022-10-09-15-27-46.png)

@@ -23,5 +23,6 @@
 ![](Images/2022-10-09-08-10-11.png)
 ![](Images/2022-10-09-08-12-24.png)
 
+# 006 Accessing Elements in Array
 ![](Images/2022-10-09-10-36-47.png)
 ![](Images/2022-10-09-15-10-53.png)

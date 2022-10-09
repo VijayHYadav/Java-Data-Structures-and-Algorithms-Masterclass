@@ -29,3 +29,6 @@
 
 # 007 Array Traversal
 ![](Images/2022-10-09-15-27-46.png)
+
+# 008 Search for Array Element
+![](Images/2022-10-09-15-48-50.png)

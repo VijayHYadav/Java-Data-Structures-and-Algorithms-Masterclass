@@ -39,3 +39,7 @@
 
 # 010 Time and Space Complexity of 1D Arrays
 ![](Images/2022-10-09-16-27-24.png)
+
+# 011 Create Two Dimensional Array
+![](2022-10-09-20-10-51.png)
+![](2022-10-09-20-14-49.png)

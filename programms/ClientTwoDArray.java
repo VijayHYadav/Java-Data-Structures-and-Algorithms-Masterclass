@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class ClientTwoDArray {
     public static void main(String[] args) {
-        TwoDArray twoDArray = new TwoDArray(3,3);
+        TwoDArray twoDArray = new TwoDArray(4,3);
          twoDArray.insertValueInTheArray(0, 0, 10);
          twoDArray.insertValueInTheArray(0, 1, 20);
          twoDArray.insertValueInTheArray(0, 2, 30);
@@ -18,5 +18,9 @@ public class ClientTwoDArray {
          twoDArray.accessCell(2, 2);
          twoDArray.accessCell(2, 3);
 
+         twoDArray.traverse2DArray();
+
+         System.out.println(twoDArray.arr[0].length); // number of columns
+         System.out.println(twoDArray.arr.length); // number of rows
     }
 }

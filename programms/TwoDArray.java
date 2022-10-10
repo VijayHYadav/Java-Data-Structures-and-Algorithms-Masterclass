@@ -8,7 +8,7 @@ public class TwoDArray {
     public TwoDArray(int numberOfRows, int numberOfColumns) {
         this.arr = new int[numberOfRows][numberOfColumns];
         for (int row = 0; row < arr.length; row++) {
-            for (int col = 0; col < arr.length; col++) {
+            for (int col = 0; col < arr[0].length; col++) {
                 arr[row][col] = Integer.MIN_VALUE;
             }
         }
@@ -35,6 +35,16 @@ public class TwoDArray {
             System.out.println("Cell value is: "+ arr[row][col]);
         } catch (ArrayIndexOutOfBoundsException e) {
             System.out.println("Invalid index for 2D array");
+        }
+    }
+
+    // Traverse 2D Array TC=O(mn) SC=O(1)
+    public void traverse2DArray() {
+        for (int row = 0; row < arr.length; row++) { // O(m)
+            for (int col = 0; col < arr[0].length; col++) { // O(n)
+                System.out.println(arr[row][col] + " "); // O(1)
+            }
+            System.out.println(); // O(1)
         }
     }
 }

@@ -49,3 +49,6 @@
 
 # 013 Accessing Two Dimensional Array Element
 ![](Images/2022-10-10-06-57-40.png)
+
+# 014 Traverse Two Dimensional Array
+![](Images/2022-10-10-07-21-23.png)

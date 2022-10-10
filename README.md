@@ -46,3 +46,6 @@
 
 # 012 Insertion - Two Dimensional Array
 ![](Images/2022-10-09-20-50-07.png)
+
+# 013 Accessing Two Dimensional Array Element
+![](Images/2022-10-10-06-57-40.png)

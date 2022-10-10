@@ -28,7 +28,7 @@ public class TwoDArray {
         }
     }
 
-    // Accessing cell value from given array
+    // Accessing cell value from given array TC=O(1) SC=O(1)
     public void accessCell(int row, int col) {
         System.out.println("\nAccessing Row# " + row + ", Col# " + col);
         try {
